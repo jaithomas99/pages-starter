@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Getting Started
-quote: The essential part of creativity is not being afraid to fail.
+quote: what goes around comes around
 cite: Edwin H. Land
 ---
 
